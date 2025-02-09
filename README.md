@@ -101,23 +101,30 @@ Let’s connect and collaborate on innovative projects! 🚀
 
 ### Web Frameworks
 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=Express&logoColor=%2361DAFB) 
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=Laravel&logoColor=white) 
-
+![Express](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=flat)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff&style=flat)
 
 ### Continous Integration Tools
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat-square&logo=Jenkins&logoColor=white)
 
-### Infrastructures
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=fff&style=flat)
+
+### Operating Systems
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=Docker&logoColor=white)
-![Amazon Web Services](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+
+### Containerization 
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat)
+![Podman](https://img.shields.io/badge/Podman-892CA0?logo=podman&logoColor=fff&style=flat)
+![Harbor](https://img.shields.io/badge/Harbor-60B932?logo=harbor&logoColor=fff&style=flat)
+
+### Cloud 
+![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?logo=amazonwebservices&logoColor=fff&style=flat)
 
 ### Shell
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+
+![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat)
 
 ### IaC Tools
-![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=flat-square&logo=Ansible&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-E00?logo=ansible&logoColor=fff&style=flat)
 ![Terraform](https://img.shields.io/badge/Terraform-%23623CE4.svg?style=flat-square&logo=Terraform&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/Vagrant-%231563FF.svg?style=flat-square&logo=Vagrant&logoColor=white)
 
@@ -127,16 +134,16 @@ Let’s connect and collaborate on innovative projects! 🚀
 ![Jaeger](https://img.shields.io/badge/Jaeger-66CFE3?logo=jaeger&logoColor=fff&style=flat)
 
 ### Storage
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=Mongodb&logoColor=white) 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=Postgresql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=Mysql&logoColor=white&style=flat)
 ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat-square&logo=Redis&logoColor=white)
 
 ### Web Application Platforms
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=Apache&logoColor=white)
-![Node](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=Node.js&logoColor=white)
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=Nginx&logoColor=white)
-  
+![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=fff&style=flat)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=flat)
+![NGINX](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff&style=flat)
+
 </div>
 
 
