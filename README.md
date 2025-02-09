@@ -124,6 +124,7 @@ Let’s connect and collaborate on innovative projects! 🚀
 ### Observability Tools
 ![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=flat&logo=Prometheus&labelColor=000000)
 ![Grafana](https://img.shields.io/badge/Grafana-black?style=flat&logo=Grafana)
+![Jaeger](https://img.shields.io/badge/Jaeger-66CFE3?logo=jaeger&logoColor=fff&style=flat)
 
 ### Storage
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=Mongodb&logoColor=white) 
