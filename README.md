@@ -185,14 +185,10 @@ Let’s connect and collaborate on innovative projects! 🚀
 
 
 ![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=8188682)
-
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=samnoonabrar&bg_color=ffffff&color=000000&line=24292e&point=24292e&area=true&hide_border=false)
-
-
+![](https://github-readme-activity-graph.vercel.app/graph?username=samnoonabrar&bg_color=ffffff&color=000000&line=24292e&point=24292e&area=true&hide_border=false&height=250&days=30&custom_title=samnoonabrar's%20Github%20Contribution%20Graph)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samnoonabrar&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samnoonabrar&theme=default)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samnoonabrar&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samnoonabrar&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samnoonabrar&theme=default&utcOffset=8)
 
