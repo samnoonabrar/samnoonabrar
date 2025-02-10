@@ -119,19 +119,26 @@ Let’s connect and collaborate on innovative projects! 🚀
 ### Cloud 
 ![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?logo=amazonwebservices&logoColor=fff&style=flat)
 
-### Shell
+### Shell, Editors
 
-![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat)
+![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat) 
+![Vim Badge](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=fff&style=flat)
 
-### IaC Tools
+
+### Infrastructure as Code
 ![Ansible](https://img.shields.io/badge/Ansible-E00?logo=ansible&logoColor=fff&style=flat)
 ![Terraform](https://img.shields.io/badge/Terraform-%23623CE4.svg?style=flat-square&logo=Terraform&logoColor=white)
 ![Vagrant](https://img.shields.io/badge/Vagrant-%231563FF.svg?style=flat-square&logo=Vagrant&logoColor=white)
 
-### Observability Tools
+### Observability 
 ![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=flat&logo=Prometheus&labelColor=000000)
 ![Grafana](https://img.shields.io/badge/Grafana-black?style=flat&logo=Grafana)
 ![Jaeger](https://img.shields.io/badge/Jaeger-66CFE3?logo=jaeger&logoColor=fff&style=flat)
+![Fluentd Badge](https://img.shields.io/badge/Fluentd-0E83C8?logo=fluentd&logoColor=fff&style=flat)
+
+### Security
+
+![ZAP Badge](https://img.shields.io/badge/ZAP-00549E?logo=zap&logoColor=fff&style=flat)
 
 ### Storage
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
@@ -143,6 +150,9 @@ Let’s connect and collaborate on innovative projects! 🚀
 ![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=fff&style=flat)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=flat)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff&style=flat)
+
+
+
 
 </div>
 
