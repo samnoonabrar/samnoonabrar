@@ -204,29 +204,6 @@ Let’s connect and collaborate on innovative projects! 🚀
 
 
 
-<h2 align="center">
-🖥️ My Current Workstation Specification
-</h2>
-
-<div align="center">
-
-![CPU](https://img.shields.io/badge/CPU-AMD_Ryzen_5_3500X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-![GPU](https://img.shields.io/badge/GPU-NVIDIA_GeForce_GTX_1050_TI_4GB-76B900?style=for-the-badge&logo=nvidia&logoColor=white) 
-
-![RAM Icon](https://img.shields.io/badge/RAM-Corsair_Vengeance_LPX_32GB-2d5f74?style=flat&logo=corsair&logoColor=white)
-![PSU Icon](https://img.shields.io/badge/PSU-Corsair_CV650_80+_Bronze-2d5f74?style=flat&logo=corsair&logoColor=white)
-
-![SSD Icon](https://img.shields.io/badge/SSD-Samsung_980_NVMe_500GB-blue?style=flat&logo=samsung&logoColor=white)
-
-
-![SSD Icon](https://img.shields.io/badge/SSD-Team_EX2_SATA_2TB-blue?style=flat&logoColor=white)
-![SSD Icon](https://img.shields.io/badge/SSD-Adata_SU650_SATA_1TB-003092?style=flat&logoColor=azureblue)
-![SSD Icon](https://img.shields.io/badge/SSD-MSI_Spatium_S270_SATA_960GB-EB1D24?style=flat&logo=msi&logoColor=white)
-
-</div>
-
-
-
 
 
 </div>
