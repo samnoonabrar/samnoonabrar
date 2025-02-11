@@ -105,7 +105,7 @@ Let’s connect and collaborate on innovative projects! 🚀
 ![Express](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=flat)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff&style=flat)
 
-### Continous Integration Tools
+### Continous Integration
 
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=fff&style=flat)
 
