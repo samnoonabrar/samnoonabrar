@@ -132,6 +132,8 @@ Let’s connect and collaborate on innovative projects! 🚀
 ![Vagrant](https://img.shields.io/badge/Vagrant-%231563FF.svg?style=flat-square&logo=Vagrant&logoColor=white)
 
 ### Observability 
+
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000?logo=opentelemetry&logoColor=fff&style=flat)
 ![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=flat&logo=Prometheus&labelColor=000000)
 ![Grafana](https://img.shields.io/badge/Grafana-black?style=flat&logo=Grafana)
 ![Jaeger](https://img.shields.io/badge/Jaeger-66CFE3?logo=jaeger&logoColor=fff&style=flat)
@@ -141,14 +143,18 @@ Let’s connect and collaborate on innovative projects! 🚀
 
 ![ZAP Badge](https://img.shields.io/badge/ZAP-00549E?logo=zap&logoColor=fff&style=flat)
 
-### Storage
+### Distributed Messaging Systems
+
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=fff&style=flat)
+![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat-square&logo=Redis&logoColor=white)
+
+### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=Mysql&logoColor=white&style=flat)
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat-square&logo=Redis&logoColor=white)
 
 ### Web Application Platforms
-![Apache](https://img.shields.io/badge/Apache-D22128?logo=apache&logoColor=fff&style=flat)
+![Apache](https://img.shields.io/badge/Apache%20HTTP-D22128?logo=apache&logoColor=fff&style=flat)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=flat)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff&style=flat)
 
