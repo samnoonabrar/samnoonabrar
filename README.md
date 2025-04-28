@@ -32,11 +32,10 @@ I enjoy staying updated with the latest trends and technologies by reading blogs
 
 Let’s connect and collaborate on innovative projects! 🚀
 
+## Work Experience
+  :office: &nbsp; **BroTecs Technologies Limited** (3+ years), Software Engineer specializing in backend development and DevOps.
 
-
- :office: &nbsp;I'm currently working at **BroTecs Technologies Limited (3+ years of professional industry experience)**
- 
- :seedling: &nbsp; I'm exploring and working on Cloud and DevOps tech stacks which includes **Amazon Web Services (AWS), Ansible, Terraform, Jenkins, Docker, Kubernetes, Vagrant** etc.
+  :seedling: Key focus areas: AWS, Ansible, Terraform, Jenkins, Docker, Kubernetes.
 
  📖 Interested in *System Design, Open Source Projects, Distributed Systems, DevSecOps*
 
@@ -46,7 +45,6 @@ Let’s connect and collaborate on innovative projects! 🚀
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/samnoon.abrar) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samnoon) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@samnoonabrar) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/samnoonabrar) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Samnoon-Abrar) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/samnoonabrar) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/8188682) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/samnoonabrar) 
 
 
-</div>
 
 
 
@@ -67,11 +65,9 @@ Let’s connect and collaborate on innovative projects! 🚀
 <h2 align="center">
 ✍️ Random Dev Quote
 </h2>
-<div align="center">
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-</div>
 
 
 
@@ -88,9 +84,8 @@ Let’s connect and collaborate on innovative projects! 🚀
 💻 Tech Stack
 </h2>
 
-<div align="center">
 	
-### Programming Languages
+### Languages
 
 ![C](https://img.shields.io/badge/-C-00599C?logo=C&logoColor=white&style=flat)
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=C%2B%2B&logoColor=white&style=flat)
@@ -98,32 +93,40 @@ Let’s connect and collaborate on innovative projects! 🚀
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=Javascript&logoColor=black&style=flat)
 
 
-
-
-### Web Frameworks
-
-![Express](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=flat)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=fff&style=flat)
-
 ### Continous Integration
 
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=fff&style=flat)
 
 ### Operating Systems
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=black)
 
-### Containerization 
+![Debian Badge](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=fff&style=flat)
+![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=fff&style=flat)
+![Red Hat Badge](https://img.shields.io/badge/Red%20Hat-E00?logo=redhat&logoColor=fff&style=flat)
+![Rocky Linux Badge](https://img.shields.io/badge/Rocky%20Linux-10B981?logo=rockylinux&logoColor=fff&style=flat)
+![CentOS Badge](https://img.shields.io/badge/CentOS-262577?logo=centos&logoColor=fff&style=flat)
+![Alpine Linux Badge](https://img.shields.io/badge/Alpine%20Linux-0D597F?logo=alpinelinux&logoColor=fff&style=flat)
+
+
+### CLI Tools
+
+![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat) 
+![Zsh Badge](https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff&style=flat)
+![Vim Badge](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=fff&style=flat) 
+![Make Badge](https://img.shields.io/badge/Make-6D00CC?logo=make&logoColor=fff&style=flat)
+![CMake Badge](https://img.shields.io/badge/CMake-064F8C?logo=cmake&logoColor=fff&style=flat)
+![Composer Badge](https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=fff&style=flat)
+
+
+
+### Virtualization
+
+![VirtualBox Badge](https://img.shields.io/badge/VirtualBox-2F61B4?logo=virtualbox&logoColor=fff&style=flat)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=flat)
 ![Podman](https://img.shields.io/badge/Podman-892CA0?logo=podman&logoColor=fff&style=flat)
 ![Harbor](https://img.shields.io/badge/Harbor-60B932?logo=harbor&logoColor=fff&style=flat)
 
 ### Cloud 
 ![Amazon Web Services](https://img.shields.io/badge/Amazon%20Web%20Services-232F3E?logo=amazonwebservices&logoColor=fff&style=flat)
-
-### Shell, Editors
-
-![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?logo=gnubash&logoColor=fff&style=flat) 
-![Vim Badge](https://img.shields.io/badge/Vim-019733?logo=vim&logoColor=fff&style=flat)
 
 
 ### Infrastructure as Code
@@ -133,11 +136,10 @@ Let’s connect and collaborate on innovative projects! 🚀
 
 ### Observability 
 
-![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000?logo=opentelemetry&logoColor=fff&style=flat)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry%20Collector-000?logo=opentelemetry&logoColor=fff&style=flat)
 ![Prometheus](https://img.shields.io/badge/Prometheus-000000?style=flat&logo=Prometheus&labelColor=000000)
 ![Grafana](https://img.shields.io/badge/Grafana-black?style=flat&logo=Grafana)
 ![Jaeger](https://img.shields.io/badge/Jaeger-66CFE3?logo=jaeger&logoColor=fff&style=flat)
-![Fluentd Badge](https://img.shields.io/badge/Fluentd-0E83C8?logo=fluentd&logoColor=fff&style=flat)
 
 ### Security
 
@@ -146,70 +148,47 @@ Let’s connect and collaborate on innovative projects! 🚀
 ### Distributed Messaging Systems
 
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=fff&style=flat)
-![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=flat-square&logo=Redis&logoColor=white)
 
 ### Databases
+
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=flat)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=Mysql&logoColor=white&style=flat)
 
-### Web Application Platforms
-![Apache](https://img.shields.io/badge/Apache%20HTTP-D22128?logo=apache&logoColor=fff&style=flat)
-![Node.js](https://img.shields.io/badge/Node.js-5FA04E?logo=nodedotjs&logoColor=fff&style=flat)
+### Servers and Load Balancers
+
 ![NGINX](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff&style=flat)
+![Apache](https://img.shields.io/badge/Apache%20HTTP-D22128?logo=apache&logoColor=fff&style=flat)
 
 
 
 
-</div>
 
 
 
-<h2 align="center">
-🏆 Competitive Programming
-</h2>
-<div align="center">
-
-| Competition Name| Participation |
-| :----- | :----: |
-| <img width="120px" src="https://www.hmc.edu/about-hmc/wp-content/uploads/sites/2/2019/01/icpc19.png" />  | ACM ICPC Dhaka Regional Contest 2019 <br /> Team: BAIUST_RUNTIME_TERROR  |
-| <img width="120px" src="https://www.hmc.edu/about-hmc/wp-content/uploads/sites/2/2019/01/icpc19.png" />  | ACM ICPC Dhaka Regional Contest 2018 <br /> Team: BAIUST_DELTA  |
+## Open Source Contributions
 
 
-![](https://raw.githubusercontent.com/samnoonabrar/codeforces-stats/main/output/light_card.svg)
-
-</div>
-
-
-
-<h2 align="center">
-🤝 Open Source Contributions
-</h2>
-
-
-<div align="center">
 
 
 
 ![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=8188682)
-![](https://github-readme-activity-graph.vercel.app/graph?username=samnoonabrar&bg_color=71797E&theme=merko&area=true&hide_border=false&height=250&days=30&custom_title=samnoonabrar's%20Github%20Contribution%20Graph&radius=10&grid=false)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samnoonabrar&theme=default)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samnoonabrar&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=samnoonabrar&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=samnoonabrar&theme=default&utcOffset=8)
-
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samnoonabrar&theme=default)
-
-</div>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samnoonabrar&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
+## Let's Connect
+If you're interested in collaborating or have any questions, feel free to reach out!
 
 
+[![Email](https://img.shields.io/badge/Send%20Me%20%20A%20Email-D14836?style=for-the-badge&logo=email&logoColor=white)](mailto:samnoonabrar@gmail.com)
 
-</div>
+## Final Thoughts
+"Let’s connect and collaborate on innovative projects! 🚀"
+
 <h2 align="center">
   <img align='center' src="https://github.com/samnoonabrar/samnoonabrar/blob/main/portal-3.gif" width='200'>
 </h2>
+
+</div>
+
