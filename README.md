@@ -93,9 +93,6 @@ Let’s connect and collaborate on innovative projects! 🚀
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=Javascript&logoColor=black&style=flat)
 
 
-### Continous Integration
-
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=fff&style=flat)
 
 ### Operating Systems
 
@@ -117,6 +114,9 @@ Let’s connect and collaborate on innovative projects! 🚀
 ![Composer Badge](https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=fff&style=flat)
 
 
+### Continous Integration
+
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=fff&style=flat)
 
 ### Virtualization
 
