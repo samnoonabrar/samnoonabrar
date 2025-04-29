@@ -12,10 +12,6 @@
   </a> 
 
 
- <a href="https://codeforces.com/profile/samnoon">
-    <img src="https://raw.githubusercontent.com/samnoonabrar/codeforces-stats/main/output/rating.svg" alt="CF rating" />
-  </a>
-  
  
 
  
