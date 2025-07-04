@@ -98,6 +98,7 @@ Let’s connect and collaborate on innovative projects! 🚀
 ![Rocky Linux Badge](https://img.shields.io/badge/Rocky%20Linux-10B981?logo=rockylinux&logoColor=fff&style=flat)
 ![CentOS Badge](https://img.shields.io/badge/CentOS-262577?logo=centos&logoColor=fff&style=flat)
 ![Alpine Linux Badge](https://img.shields.io/badge/Alpine%20Linux-0D597F?logo=alpinelinux&logoColor=fff&style=flat)
+[![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?logo=freebsd&logoColor=fff)](#)
 
 
 ### CLI Tools
