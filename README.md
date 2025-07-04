@@ -99,6 +99,8 @@ Let’s connect and collaborate on innovative projects! 🚀
 ![CentOS Badge](https://img.shields.io/badge/CentOS-262577?logo=centos&logoColor=fff&style=flat)
 ![Alpine Linux Badge](https://img.shields.io/badge/Alpine%20Linux-0D597F?logo=alpinelinux&logoColor=fff&style=flat)
 [![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?logo=freebsd&logoColor=fff)](#)
+[![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff)](#)
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 
 
 ### CLI Tools
