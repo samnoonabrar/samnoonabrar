@@ -172,7 +172,6 @@ Let’s connect and collaborate on innovative projects! 🚀
 
 
 ![stackoverflow-stats](https://github-stackoverflow-readme.vercel.app/?userId=8188682)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samnoonabrar&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
