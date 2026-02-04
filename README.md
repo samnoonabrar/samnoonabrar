@@ -113,7 +113,7 @@ Let’s connect and collaborate on innovative projects! 🚀
 ![Composer Badge](https://img.shields.io/badge/Composer-885630?logo=composer&logoColor=fff&style=flat)
 
 
-### Continous Integration
+### CI/CD
 
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?logo=jenkins&logoColor=fff&style=flat)
 
