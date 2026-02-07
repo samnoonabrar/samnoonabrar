@@ -29,7 +29,7 @@ I enjoy staying updated with the latest trends and technologies by reading blogs
 Let’s connect and collaborate on innovative projects! 🚀
 
 ## Work Experience
-  :office: &nbsp; **BroTecs Technologies Limited** (3+ years), Software Engineer specializing in backend development and DevOps.
+  :office: &nbsp; **BroTecs Technologies Limited** (4+ years), Software Engineer specializing in backend development and DevOps.
 
   :seedling: Key focus areas: AWS, Ansible, Terraform, Jenkins, Docker, Kubernetes.
 
